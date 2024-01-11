@@ -1,2 +1,3 @@
 # AI_in_Education
-A collection of AI resources I've found on the web
+I've found a collection of AI resources on the web for a project I'm working on with John Stevens at St. Bonaventure University. 
+
