@@ -10,3 +10,5 @@
 #### [Mozilla LLamafile](https://github.com/Mozilla-Ocho/llamafile)
 
 #### [Amazon offers free AI Courses](https://www.openculture.com/2024/01/amazon-offers-free-ai-courses-aiming-to-help-2-million-people-build-ai-skills-by-2025.html)
+
+#### [Copilot from Microsoft](https://copilot.microsoft.com/)
