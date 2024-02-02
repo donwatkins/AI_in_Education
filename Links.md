@@ -14,3 +14,5 @@
 #### [Amazon offers free AI Courses](https://www.openculture.com/2024/01/amazon-offers-free-ai-courses-aiming-to-help-2-million-people-build-ai-skills-by-2025.html)
 
 #### [Copilot from Microsoft](https://copilot.microsoft.com/)
+
+#### [How to install Stable Diffusion on M2 MacBook Air](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)
